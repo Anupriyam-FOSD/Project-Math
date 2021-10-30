@@ -29,7 +29,7 @@ Just as described above it is a basic calculator. The code can be used for pract
 ## Requirements
 - Go to project-folder
 - Create a virtual environment and type the following command in your terminal
-- ```bash
+ ```bash
   pip install -r requirements.txt
   ```
 
